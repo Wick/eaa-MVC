@@ -1,0 +1,45 @@
+
+#flash {
+	background-color:#666;
+	min-height: 66px;
+    text-align: center;
+}
+ 
+#main {
+	background-color:#666;
+	min-height: 66px;
+    text-align: center;
+}
+ 
+#sidebar {
+	background-color:#666;
+	min-height: 66px;
+    text-align: center;
+}
+ 
+#featured-1,
+#featured-2,
+#featured-3,
+#triptych-1,
+#triptych-2,
+#triptych-3 {
+	background-color:#666;
+	min-height: 66px;
+    text-align: center;
+}
+ 
+#footer-col-1,
+#footer-col-2,
+#footer-col-3, 
+#footer-col-4 {
+	background-color:#666;
+	min-height: 66px;
+    text-align: center;
+}
+
+#wrap-featured,
+#wrap-main,
+#wrap-triptych,
+#wrap-footer-col {
+    .clearfix();
+}
