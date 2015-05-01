@@ -1,8 +1,7 @@
 EAA-MVC
 =========
 
-This is a Q/A site based on Anax-MVC.
-[![Anax-MVC](https://poser.pugx.org/leaphly/cart-bundle/version.png)](https://packagist.org/packages/anax/mvc)
+This is a Q/A site based on [Anax-MVC](https://github.com/mosbth/Anax-MVC "Anax-MVC").
 
 
 License
